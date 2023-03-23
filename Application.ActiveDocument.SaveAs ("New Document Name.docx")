@@ -1,0 +1,1 @@
+Application.ActiveDocument.SaveAs ("New Document Name.docx")
